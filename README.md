@@ -13,7 +13,7 @@ Most of my university projects are private if you would like to see them reach o
 //
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="28"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="28"> 
-<img src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" height="28"> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" height="28"> 
 
 
 
