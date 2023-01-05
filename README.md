@@ -1,4 +1,4 @@
-# 👋 Hi there 
+#👋 Hi there 
 I'm a Computer Science student I build a little bit of everything but currently I'm focused on web development and software development.
 Most of my university projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
@@ -8,7 +8,7 @@ Most of my university projects are private if you would like to see them reach o
 
 
 
-# :computer: Programming & Tech
+#:computer: Programming & Tech
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" height="28">
   &nbsp;&nbsp;&nbsp;
@@ -34,11 +34,11 @@ Most of my university projects are private if you would like to see them reach o
 
 
 
-# Extras
+#:hammer_and_wrench:Extras
 
 ExpressJS, MongoDB, Valgrind, BASH
 
-# :link: Links
+#:link: Links
 - <a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">LinkedIn</a>
 - <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 - 
