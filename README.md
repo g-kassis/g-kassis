@@ -4,7 +4,7 @@ Most of my university projects are private if you would like to see them reach o
 
 ### Programming & Tech
 - Java <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" width="80">
-- C/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="80">
+- C/C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50">
 - Python <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" width="80">
 - HTML/CSS & JS <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="80">
 
