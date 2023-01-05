@@ -2,6 +2,9 @@
 I'm a Computer Science student I build a little bit of everything but currently I'm focused on web development and software development.
 Most of my university projects are private if you would like to see them reach out @ <a href="https://www.google.com/" target="_blank">Website</a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-kassi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 # Programming & Tech
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" height="28">
