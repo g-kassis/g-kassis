@@ -10,11 +10,11 @@ Most of my university projects are private if you would like to see them reach o
   &nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" title="CSS" height="40">
   &nbsp;&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="Java" height="32">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="NodeJS" height="32">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" height="32">
   &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Smiley face" height="38">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" height="38">
   &nbsp;&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VScode" height="36">
   &nbsp;&nbsp;&nbsp;
