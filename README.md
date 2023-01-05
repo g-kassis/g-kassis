@@ -39,3 +39,7 @@ Most of my university projects are private if you would like to see them reach o
 ExpressJS, MongoDB, Valgrind, BASH
 
 # Links
+- <a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">LinkedIn</a>
+- <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
+- 
+
