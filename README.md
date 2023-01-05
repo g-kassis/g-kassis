@@ -16,7 +16,7 @@ Most of my university projects are private if you would like to see them reach o
   &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="38">
   &nbsp;&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="38">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="36">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="32">
   &nbsp;&nbsp;
