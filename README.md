@@ -11,7 +11,7 @@ Most of my university projects are private if you would like to see them reach o
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="40">
   &nbsp;&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" height="32">
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="32">
   &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="38">
