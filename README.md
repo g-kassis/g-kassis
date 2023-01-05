@@ -7,7 +7,7 @@ Most of my university projects are private if you would like to see them reach o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-	:hammer_and_wrench:
+:hammer_and_wrench:
 # :computer:Programming & Tech
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" height="28">
