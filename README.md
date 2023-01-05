@@ -28,13 +28,8 @@ Most of my university projects are private if you would like to see them reach o
 
 
 
-
-
-
-
-
 # Extras
 
-Linux, VScode, NodeJS, ExpressJS, MongoDB, Valgrind, BASH
+ExpressJS, MongoDB, Valgrind, BASH
 
 # Links
