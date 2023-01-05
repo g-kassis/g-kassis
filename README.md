@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋 I go by 
 I'm a Computer Science student I build a little bit of everything but currently I'm focused on web development and software development.
-Most of my university projects are private if you would like to see them reach out @ website
+Most of my university projects are private if you would like to see them reach out @ <a herf="google.com">
 
 # Programming & Tech
 <p>
