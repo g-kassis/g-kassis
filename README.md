@@ -1,5 +1,6 @@
 # 👋 Hi there 
 I'm a Computer Science student I build a little bit of everything but currently I'm focused on web development and software development.
+Always looking to participate in hackathons and side projects
 Most of my university projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-kassis&theme=dark)](https://git.io/streak-stats)
