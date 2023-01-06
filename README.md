@@ -1,5 +1,5 @@
 # 👋 Hi there 
-- I'm a Computer Science student @ Carleton University
+- I'm a Computer Science student @Carleton University
 - I build a little bit of everything but currently focused on web development and software development.
 - Always looking to participate in hackathons and side projects
 - My university projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
