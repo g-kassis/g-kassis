@@ -3,7 +3,7 @@
 - I build a little bit of everything and enjoy anything computers
 - Currently focused on web development and software development.
 - Always looking to participate in hackathons and side projects
-- My university projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
+- Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-kassis&theme=dark)](https://git.io/streak-stats)
 <br>
