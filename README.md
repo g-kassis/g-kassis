@@ -44,5 +44,4 @@ ExpressJS, MongoDB, Valgrind, BASH
 # :link: Links
 - <a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">LinkedIn</a>
 - <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
-- 
 
