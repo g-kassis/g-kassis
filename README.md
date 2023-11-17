@@ -1,7 +1,7 @@
 # 👋 Hi there 
 - I'm a Computer Science student @Carleton University
 - I build a little bit of everything and enjoy anything computers
-- Currently focused on web development and software development.
+- Currently focused on AI, web development and software development.
 - Always looking to participate in hackathons and side projects
 - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
