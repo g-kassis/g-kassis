@@ -5,12 +5,13 @@
 - Always looking to participate in hackathons and side projects
 - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
 # :computer: Programming & Tech
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" height="28">
   &nbsp;&nbsp;&nbsp;
