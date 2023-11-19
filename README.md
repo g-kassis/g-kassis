@@ -5,7 +5,6 @@
 - Always looking to participate in hackathons and side projects
 - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g-kassis&theme=dark)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
