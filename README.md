@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark&card_width=320" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark&card_width=320" />
 </a>
 <br>
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
