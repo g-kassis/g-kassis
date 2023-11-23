@@ -8,9 +8,11 @@
 
 # :computer: Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=g-kassis&theme=highcontrast)](https://git.io/streak-stats)
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=highcontrast" />
+</p>
 <br>
-<p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=vision-friendly-dark&card_width=300" />
 </a>
