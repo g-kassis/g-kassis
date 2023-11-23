@@ -10,12 +10,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=g-kassis&theme=highcontrast)](https://git.io/streak-stats)
 <br>
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=vision-friendly-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=vision-friendly-dark&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=vision-friendly-dark&card_width=300" />
 </a>
+</p>
 <br>
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <br>
