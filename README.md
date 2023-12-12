@@ -1,4 +1,12 @@
-#   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" title="Linux" height="40"> Hi there 
+#   <div align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" title="Linux" height="40"></div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+and+AI+Development;Here+To+Learn;&center=true&color="FFA500")](https://git.io/typing-svg)
+
+</div>
+
+
 - I'm a Computer Science student @Carleton University
 - I build a little bit of everything and enjoy anything computers
 - Currently focused on AI, web development and software development.
@@ -6,7 +14,8 @@
 - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 <br>
 
-# :computer: Github Stats
+# :computer: Github Stats 
+
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=highcontrast" />
@@ -39,6 +48,7 @@
 ### 🧰 Frameworks and Libraries
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -65,6 +75,11 @@
 
 
 # :link: Links
-- <a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 - <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
+
+![](https://komarev.com/ghpvc/?username=g-kassis&style=for-the-badge&label=VISITORS)
 
