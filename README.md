@@ -1,21 +1,31 @@
 #   <div align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" title="Linux" height="40"></div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+and+AI+Development;Here+To+Learn;&center=true&color="FFA500")](https://git.io/typing-svg)
-
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+and+AI+Development;Here+To+Learn;&center=true&color="FFA500")](https://git.io/typing-svg)
+  <br>
+  [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
+  [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io/Website)
 </div>
 
+<br>
+<p align="center">
+  Computer Science student at Carleton University, currently delving into various projects and enjoying everything computers. 
+  Currently focused on AI, web, and software development. Actively seeking involvement in hackathons and side projects. 
+  Due to Academic Integrity (plagarism) my University projects are private if you would like more information reach out @ <a href="https://g-kassis.github.io/Website"   
+                                                                                                                            target="_blank">Website</a>
+</p>
+  
+ <!--- Comments are Fun  - I'm a Computer Science student @Carleton University
+  [comment]: <> - I build a little bit of everything and enjoy anything computers
+  [comment]: <> - Currently focused on AI, web development and software development.
+  [comment]: <> - Always looking to participate in hackathons and side projects
+  [comment]: <> - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
+--->
 
-- I'm a Computer Science student @Carleton University
-- I build a little bit of everything and enjoy anything computers
-- Currently focused on AI, web development and software development.
-- Always looking to participate in hackathons and side projects
-- Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
 <br>
 
 # :computer: Github Stats 
-
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=highcontrast" />
@@ -34,7 +44,6 @@
 <br>
 
 # :computer: Programming & Tech
- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -75,11 +84,9 @@
 
 
 # :link: Links
-<a href="https://www.linkedin.com/in/giovanni-kassis" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-- <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
+[![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
+<br>
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io/Website)
 
 ![](https://komarev.com/ghpvc/?username=g-kassis&style=for-the-badge&label=VISITORS)
 
