@@ -110,11 +110,3 @@
 </div>
 
 
-# :link: Links
-[![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
-<br>
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io/Website)
-
-<!---![](https://komarev.com/ghpvc/?username=g-kassis&style=for-the-badge&label=VISITORS)--->
-
-
