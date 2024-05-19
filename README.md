@@ -30,15 +30,15 @@
 # 📊 Github Stats 
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=radical" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark (for lower two only)--->
+  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=calm_pink" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark (for lower two only)--->
 </p>
 <br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=radical&rank_icon=github&card_width=300" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=calm_pink&rank_icon=github&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=radical&card_width=300" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=calm_pink&card_width=300" />
 </a>
 </p>
 <br>
