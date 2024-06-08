@@ -13,7 +13,7 @@
 <br>
 <p align="center">
   Computer Science student at Carleton University, currently delving into various projects and enjoying everything computers. 
-  Currently focused on AI, web, and software development. Actively seeking involvement in hackathons and side projects. 
+<!---  Currently focused on AI, web, and software development. Actively seeking involvement in hackathons and side projects. --->
   Due to Academic Integrity (plagarism) my University projects are private if you would like more information reach out @ <a href="https://g-kassis.github.io/Website"   
                                                                                                                             target="_blank">Website</a>
 </p>
