@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-  Computer Science student at Carleton University, currently delving into various projects and enjoying everything computers. 
+  Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in. 
 <!---  Currently focused on AI, web, and software development. Actively seeking involvement in hackathons and side projects. --->
   Due to Academic Integrity (plagarism) my University projects are private if you would like more information reach out @ <a href="https://g-kassis.github.io/Website"   
                                                                                                                             target="_blank">Website</a>
