@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Software+and+AI+Development;Here+To+Learn;&center=true&color="FDDA0D")](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Expert;Software+Development;Web+Development;Artificial+Intelligence;&center=true&color="FDDA0D")](https://git.io/typing-svg)
   <br>
   [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
   [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io/Website)
@@ -12,18 +12,11 @@
 
 <br>
 <p align="center">
-  Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in. 
-<!---  Currently focused on AI, web, and software development. Actively seeking involvement in hackathons and side projects. --->
+  Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in.
+  <br>
   Due to Academic Integrity (plagarism) my University projects are private if you would like more information reach out @ <a href="https://g-kassis.github.io/Website"   
                                                                                                                             target="_blank">Website</a>
 </p>
-  
- <!--- Comments are Fun  - I'm a Computer Science student @Carleton University
-  [comment]: <> - I build a little bit of everything and enjoy anything computers
-  [comment]: <> - Currently focused on AI, web development and software development.
-  [comment]: <> - Always looking to participate in hackathons and side projects
-  [comment]: <> - Due to Academic Integrity (plagarism) my University projects are private if you would like to see them reach out @ <a href="https://g-kassis.github.io/Website" target="_blank">Website</a>
---->
 
 <br>
 
