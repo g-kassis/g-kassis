@@ -3,20 +3,18 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Expert;Software+Development;Web+Development;Artificial+Intelligence;&center=true&color="FDDA0D")](https://git.io/typing-svg)
-  <br>
-  [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
-  [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io/Website)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 </div>
 
 <br>
-<p align="center">
+<div align="center">
   Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in.
-  <br>
-  Due to Academic Integrity (plagarism) my University projects are private if you would like more information reach out @ <a href="https://g-kassis.github.io/Website"   
-                                                                                                                            target="_blank">Website</a>
-</p>
+  Whether you're seeking a project partner or looking to hire me for specialized services, I'm ready to collaborate. Let's connect and explore how I can contribute to your next big idea.
+  <hr>
+  
+  [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io)
+  [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
+
+</div>
 
 <br>
 
