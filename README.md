@@ -6,7 +6,7 @@
 </div>
 --->
 
-<div align="center"><img src="https://wallpaperaccess.com/full/2825810.gif" height="100%">
+<div align="center"><img src="https://wallpaperaccess.com/full/2825810.gif" width="100%" height="400px">
 
 <!-- More Gifs to switch
 https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif
