@@ -6,12 +6,12 @@
 </div>
 --->
 
-<div align="center"><img src="https://wallpaperaccess.com/full/2825810.gif" width="100%" height="400px">
+<div align="center"><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" height="400px">
 
 <!-- More Gifs to switch
 https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif
 https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif
-https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbpxxqqvps4h91.gif
+https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif
 https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376
 https://i.makeagif.com/media/5-27-2017/1it9YM.gif
 
@@ -37,15 +37,15 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d8
 # 📊 Github Stats 
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=calm_pink" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark, calm_pink, one_dark_pro (for lower two only)--->
+  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=one_dark_pro" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark, calm_pink, one_dark_pro (for lower two only)--->
 </p>
 <br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=calm_pink&rank_icon=github&card_width=300" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=g-kassis&show_icons=true&theme=one_dark_pro&rank_icon=github&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=calm_pink&card_width=300" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-kassis&layout=compact&theme=one_dark_pro&card_width=300" />
 </a>
 </p>
 <br>
