@@ -25,13 +25,17 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d8
 <div align="center">
   Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in.
   Whether you're seeking a project partner or looking to hire me for specialized services, I'm ready to collaborate. Let's connect and explore how I can contribute to your next big idea.
-  <hr>
+</div>
+<br>
+
+# 📬 Reach Me On
+
+<div align="center" align-items= "center">
   
   [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://g-kassis.github.io)
   [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-kassis)
 
 </div>
-
 <br>
 
 # 📊 Github Stats 
