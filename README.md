@@ -1,8 +1,24 @@
-#   <div align="center"><img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" title="Linux" height="40"></div>
-
+# 
+<!--
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Expert;Software+Development;Web+Development;Artificial+Intelligence;&center=true&color="FDDA0D")](https://git.io/typing-svg)
+</div>
+--->
+
+<div align="center"><img src="https://wallpaperaccess.com/full/2825810.gif" height="100%">
+
+<!-- More Gifs to switch
+https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif
+https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-13.gif
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbpxxqqvps4h91.gif
+https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376
+https://i.makeagif.com/media/5-27-2017/1it9YM.gif
+
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYza2xsci0zMmI0NTM4Ni1jYjBiLTRkMTgtODYxNC1kOWM1YzUzNDkyOTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXPGXM3Wy0nOUVmXi1d-CT031ZTvMjTdTsvYShmMXTY
+
+ --->
+
 </div>
 
 <br>
@@ -21,7 +37,7 @@
 # 📊 Github Stats 
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=calm_pink" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark (for lower two only)--->
+  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=calm_pink" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark, calm_pink, one_dark_pro (for lower two only)--->
 </p>
 <br>
 <p align="center">
@@ -37,7 +53,6 @@
 <br>
 
 # :computer: Programming & Tech
-<div dir="auto">
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
