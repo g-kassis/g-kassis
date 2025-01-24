@@ -23,8 +23,9 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d8
 
 <br>
 <div align="center">
+  <samp>
   Computer Science professional working on turning complex problems into elegant solutions. From software engineering to machine learning, if it involves coding, I’m all in.
-  Whether you're seeking a project partner or looking to hire me for specialized services, I'm ready to collaborate. Let's connect and explore how I can contribute to your next big idea.
+  Whether you're seeking a project partner or looking to hire me for specialized services, I'm ready to collaborate. Let's connect and explore how I can contribute to your next big idea.</samp>
 </div>
 <br>
 
@@ -53,7 +54,7 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d8
 </a>
 </p>
 <br>
-<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<p><samp>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</samp></p>
 <br>
 
 # :computer: Programming & Tech
