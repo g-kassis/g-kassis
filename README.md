@@ -42,7 +42,9 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d8
 # 📊 Github Stats 
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=one_dark_pro" /> <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark, calm_pink, one_dark_pro (for lower two only)--->
+
+  <img align="center" src="https://streak-stats.demolab.com/?user=g-kassis&theme=one_dark_pro" /> 
+  <!--- themes:  highcontrast(use with vison-friendly-dark), radical, vision-friendly-dark, calm_pink, one_dark_pro (for lower two only)--->
 </p>
 <br>
 <p align="center">
